@@ -10,7 +10,7 @@
 // • Kannachann
 // • The.Sad.Boy01
 // • Rasel comel
-// • Xtreshe (Beban)
+// • GROUNDOG ARPAS CT (Beban)
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -51,25 +51,25 @@ global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
+global.pdana = '085731589675'
 global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
+global.pgopay = '085731589675'
+global.ppulsa = '085731589675'
 global.ppulsa2 = '081336990781'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '6285731589675'
+global.nomorown = '6285731221259'
+global.namebot = 'GURITA BOT'
+global.nameown = 'OWNER GURITABotz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['6285334930628'],
   ['6285334930628'],
-  ['18126338970'],
+  ['6285731589675'],
   ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
